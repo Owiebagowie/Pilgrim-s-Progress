@@ -1,0 +1,6 @@
+{
+  "name": "The Pilgrim's Progress",
+  "description": "A vibrant 17th-century graphic-novel style interactive main menu for The Pilgrim's Progress, featuring dynamic candlelight, an old-fashioned knife, and an interactive leather-bound tome.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
